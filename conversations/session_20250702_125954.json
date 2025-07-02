@@ -1,0 +1,44 @@
+{
+  "session_id": "session_20250702_125954",
+  "start_time": "2025-07-02T12:59:54.177625",
+  "end_time": "2025-07-02T13:11:02.326699",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello what can you do"
+    },
+    {
+      "role": "user",
+      "content": "hello"
+    }
+  ],
+  "stats": {
+    "total_messages": 4,
+    "emotional_responses": 0,
+    "logical_responses": 1,
+    "mixed_responses": 0,
+    "crisis_detections": 0,
+    "avg_confidence": 0.8,
+    "session_duration": 0.0,
+    "common_emotions": {}
+  },
+  "config": {
+    "therapist_temperature": 0.7,
+    "logical_temperature": 0.3,
+    "max_tokens": 1000,
+    "save_conversations": true,
+    "show_confidence": true,
+    "colored_output": true,
+    "auto_save_interval": 5,
+    "crisis_keywords": [
+      "suicide",
+      "kill myself",
+      "end my life",
+      "hurt myself",
+      "self harm",
+      "want to die",
+      "no point living"
+    ],
+    "response_length": "medium"
+  }
+}
