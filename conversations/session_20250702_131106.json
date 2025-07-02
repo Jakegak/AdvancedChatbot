@@ -1,0 +1,64 @@
+{
+  "session_id": "session_20250702_131106",
+  "start_time": "2025-07-02T13:11:06.454977",
+  "end_time": "2025-07-02T13:16:58.188624",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello what can you do"
+    },
+    {
+      "role": "assistant",
+      "content": "I am an AI language model designed to help with a wide range of tasks through text-based interaction. My core capabilities include analyzing information, answering questions, explaining concepts, helping with writing and editing, solving problems, and providing factual information across many fields like science, history, technology, and business.\n\nI can assist with practical tasks like drafting emails, reviewing documents, explaining complex topics in simpler terms, helping with research, and providing step-by-step instructions. I aim to give logical, evidence-based responses while breaking down problems into manageable components. However, I cannot access the internet in real-time, create images, or interact with external systems.\n\nIt's important to note that I have limitations - I cannot verify current events, provide medical/legal advice, or access personal information. I aim to be transparent about what I can and cannot do. My knowledge is based on my training data, which has a cutoff date, so some information may not be current. I encourage users to verify critical information from authoritative sources."
+    },
+    {
+      "role": "user",
+      "content": "I need some advice on buying a house on morgage in kenya, recommend for me the best properties under 10m in kenya located in nairobi and the best banks that can finance with a low interest rate"
+    },
+    {
+      "role": "assistant",
+      "content": "Here's a logical analysis of home buying in Nairobi under KES 10M:\n\nProperty Recommendations:\nThe most viable areas for properties under 10M in Nairobi include Kahawa Sukari, Ruaka, Kikuyu, and parts of Syokimau. These areas offer 2-3 bedroom apartments or maisonettes ranging from 7M-9.5M. Specifically, you can find modern apartments in Kahawa Sukari for around 8M, while Ruaka offers newer developments with good amenities between 8.5M-9.5M. These areas provide good infrastructure, security, and potential for value appreciation.\n\nMortgage Financing Options:\nKCB Bank and Housing Finance currently offer some of the most competitive mortgage rates, ranging from 11.5% to 13% per annum. NCBA and Co-operative Bank also provide reasonable rates between 12-13.5%. Most banks require a minimum deposit of 10-20% of the property value. KCB Bank's current promotion offers up to 90% financing with terms up to 25 years, making it particularly attractive. For a 10M property with a 20% deposit, monthly payments would range from KES 80,000-95,000 depending on the term and interest rate.\n\nTo proceed, you'll need to prepare documentation including proof of income, bank statements for 6 months, tax returns, and other KYC documents. It's advisable to get pre-qualified for a mortgage before beginning your property search, and to work with a registered real estate agent for property viewings and negotiations."
+    },
+    {
+      "role": "user",
+      "content": "I need some advice I just broke up with my girlfriend and am feeling abit down"
+    },
+    {
+      "role": "assistant",
+      "content": "I hear how down you're feeling right now, and I want you to know that it's completely natural and valid to feel this way after a breakup. Ending a relationship can be one of life's most challenging emotional experiences, and it often comes with a complex mix of feelings - sadness, confusion, loneliness, and perhaps even a sense of loss. Would you like to tell me more about what you're going through?\n\nIt sounds like you're going through a particularly difficult time right now. Sometimes breakups can shake our whole world and affect us in ways we didn't expect. I'm here to listen and provide a safe space for you to express your feelings. How long ago did the breakup happen, and how have you been coping with it so far?\n\nRemember that healing from a breakup is a process, and there's no \"right\" way to feel or set timeline for recovery. It's important to be gentle with yourself during this period. Have you been able to reach out to friends or family for support? Sometimes having a support system can make a significant difference in how we process these challenging emotions.\n\nWould you feel comfortable sharing what's been the hardest part for you in dealing with this breakup? Understanding this might help us explore ways to help you navigate through this difficult time."
+    }
+  ],
+  "stats": {
+    "total_messages": 6,
+    "emotional_responses": 1,
+    "logical_responses": 2,
+    "mixed_responses": 0,
+    "crisis_detections": 0,
+    "avg_confidence": 0.9166666666666669,
+    "session_duration": 0.0,
+    "common_emotions": {
+      "sad": 2,
+      "down": 2,
+      "hurt": 2
+    }
+  },
+  "config": {
+    "therapist_temperature": 0.7,
+    "logical_temperature": 0.3,
+    "max_tokens": 1000,
+    "save_conversations": true,
+    "show_confidence": true,
+    "colored_output": true,
+    "auto_save_interval": 5,
+    "crisis_keywords": [
+      "suicide",
+      "kill myself",
+      "end my life",
+      "hurt myself",
+      "self harm",
+      "want to die",
+      "no point living"
+    ],
+    "response_length": "medium"
+  }
+}
